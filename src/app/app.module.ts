@@ -16,7 +16,7 @@ import { CardPriceComponent } from './components/card/card-price/card-price.comp
     CardComponent,
     MenuBarComponent,
     CardLabelComponent,
-    CardPriceComponent,
+    CardPriceComponent
   ],
   imports: [
     BrowserModule,

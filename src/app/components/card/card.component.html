@@ -1,10 +1,22 @@
-<a href="#" class="card__container">
-    <img 
-        class="card__img"
-        [src]= [gameCover]
-        alt="" 
-        srcset=""
-    >
+<head>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/hint.css/2.7.0/hint.min.css"
+    />
+  </head>
+
+<div class="card">
+    <div class="poster">
+        <img 
+            [src]= [gameCover]
+            alt="" 
+            srcset=""
+        >
+    
     <app-card-label
         gameLabel= "{{ gameLabel }}"
     >
@@ -15,4 +27,52 @@
         gamePrice= "{{ gamePrice }}"   
     >
     </app-card-price>
-</a>
+       
+    </div>
+    <div class="details">
+        <h1>{{ gameName }}</h1>
+        <h2>{{ gameLabel }} • {{ gameType }} • {{ gamePrice }}</h2>
+
+        <div class="rating">
+            <ng-container *ngFor="let star of fullStars">
+              <i class="fas fa-star"></i>
+            </ng-container>
+          
+            <i *ngIf="hasHalfStar" class="fas fa-star-half-alt"></i>
+          
+            <ng-container *ngFor="let star of emptyStars">
+              <i class="far fa-star"></i>
+            </ng-container>
+          
+            <span>{{ gameStar }}</span>
+        </div>
+
+        <div class="tags">
+            <div class="age-rating">
+              <span>{{ gameAge }}</span>
+            </div>
+            <span style="padding: 1rem;">{{ gameClassificacao }}</span>
+        </div>
+
+        <p class="desc">
+            {{ gameDescription }}
+        </p>
+        <div class="cast">
+            <h3>Nº de Jogadores:</h3>
+            <span>{{ gameNumbers }}</span>
+        </div>
+
+      <!-- Contêiner para alinhar o botão e o coração -->
+      <div class="action-container">
+        <div *ngIf="!isAddedToCart; else addedCaption">
+          <button class="add-to-cart-button" (click)="addToCart()">Adicionar ao Carrinho</button>
+          <span class="heart" [class.favorite]="isFavorite" (click)="toggleFavorite()">&#10084;</span>
+        </div>
+        <ng-template #addedCaption>
+          <div class="added-caption">
+            Adicionado ao carrinho <span class="check-emoji">✔️</span>
+            <span class="heart" [class.favorite]="isFavorite" (click)="toggleFavorite()">&#10084;</span>
+          </div>
+        </ng-template>
+      </div>
+</div>
