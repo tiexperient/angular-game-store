@@ -26,7 +26,6 @@ Tudo isso com um design **elegante, moderno e totalmente responsivo!**
 ## 🔗 Acesse Agora
 🌍 **O projeto já está disponível online! Acesse agora:** [🔗 Pay Station Store](https://tiexperient-play-station-store.netlify.app/)  
 👩🏼‍💻 **Portfólio:** [Meu Portfólio Profissional](https://ti-experient.netlify.app/)  
-<br><br>
 
 📌 Explore o código, contribua e divirta-se testando a plataforma!
 
