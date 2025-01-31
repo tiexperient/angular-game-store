@@ -1,27 +1,33 @@
-# Store
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+# 🎮 Pay Station Store 🚀
 
-## Development server
+Bem-vindo(a) ao Pay Station Store! 🕹️🔥
+Se você já explorou a PlayStation Store, vai adorar essa experiência! Aqui, desenvolvi uma plataforma incrível e responsiva para venda de jogos, repleta de funcionalidades que tornam a navegação dinâmica e intuitiva.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🛠️ Funcionalidades
 
-## Code scaffolding
+✅ **Favoritos:** Salve seus jogos preferidos e acesse rapidamente!<br>
+✅ **Idade mínima:** Saiba se o jogo é adequado para sua faixa etária.<br>
+✅ **Avaliação em estrelas:** Veja a opinião da comunidade sobre cada jogo! ⭐⭐⭐⭐⭐<br>
+✅ **Categorias:** Ação, aventura, violência extrema e muito mais!<br>
+✅ **Número de jogadores:** Descubra se o jogo é solo ou multiplayer.<br>
+✅ **Compatibilidade:** Funciona em PS4, PS5? Você descobre aqui!<br>
+✅ **Preço:** Informações detalhadas sobre os valores dos jogos.<br>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Tudo isso com um design **elegante, moderno e totalmente responsivo!**
+<br><br>
 
-## Build
+## 🔗 Acesse Agora
+🌍 **O projeto já está disponível online! Acesse agora:** [🔗 PokéAPI App](https://tiexperient-pokemon.netlify.app/)  
+👩🏼‍💻 **Portfólio:** [Meu Portfólio Profissional](https://ti-experient.netlify.app/)  
+<br><br>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 💻 Tecnologias Utilizadas
+🚀 **Angular 14.0.0**
+⚡ **TypeScript**
+🎨 **HTML & CSS**
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Criado com muita dedicação e paixão por **Célia Medeiros** 💛🚀
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+📌 Explore o código, contribua e divirta-se testando a plataforma!
