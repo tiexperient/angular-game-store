@@ -28,6 +28,6 @@ Tudo isso com um design **elegante, moderno e totalmente responsivo!**
 👩🏼‍💻 **Portfólio:** [Meu Portfólio Profissional](https://ti-experient.netlify.app/)  
 <br><br>
 
-Criado com muita dedicação e paixão por **Célia Medeiros** 💛🚀
-
 📌 Explore o código, contribua e divirta-se testando a plataforma!
+
+Criado com muita dedicação e paixão por **Célia Medeiros** 💛🚀
