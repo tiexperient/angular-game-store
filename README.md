@@ -17,16 +17,16 @@ Se você já explorou a PlayStation Store, vai adorar essa experiência! Aqui, d
 Tudo isso com um design **elegante, moderno e totalmente responsivo!**
 <br><br>
 
-## 🔗 Acesse Agora
-🌍 **O projeto já está disponível online! Acesse agora:** [🔗 PokéAPI App](https://tiexperient-pokemon.netlify.app/)  
-👩🏼‍💻 **Portfólio:** [Meu Portfólio Profissional](https://ti-experient.netlify.app/)  
+## 💻 Tecnologias Utilizadas
+🚀 **Angular 14.0.0**<br>
+⚡ **TypeScript**<br>
+🎨 **HTML & CSS**
 <br><br>
 
-## 💻 Tecnologias Utilizadas
-🚀 **Angular 14.0.0**
-⚡ **TypeScript**
-🎨 **HTML & CSS**
-
+## 🔗 Acesse Agora
+🌍 **O projeto já está disponível online! Acesse agora:** [🔗 Pay Station Store](https://tiexperient-play-station-store.netlify.app/)  
+👩🏼‍💻 **Portfólio:** [Meu Portfólio Profissional](https://ti-experient.netlify.app/)  
+<br><br>
 
 Criado com muita dedicação e paixão por **Célia Medeiros** 💛🚀
 
