@@ -2,7 +2,7 @@
 # 🎮 Pay Station Store 🚀
 
 Bem-vindo(a) ao Pay Station Store! 🕹️🔥
-Se você já explorou a PlayStation Store, vai adorar essa experiência! Aqui, desenvolvi uma plataforma incrível e responsiva para venda de jogos, repleta de funcionalidades que tornam a navegação dinâmica e intuitiva.
+Se você já explorou a PlayStation Store, vai adorar essa experiência! Aqui, desenvolvi uma plataforma incrível e responsiva para venda de jogos, repleta de funcionalidades que tornam a navegação dinâmica e intuitiva.<br>
 
 ## 🛠️ Funcionalidades
 
