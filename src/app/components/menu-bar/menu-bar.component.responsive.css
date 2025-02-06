@@ -1,0 +1,6 @@
+/* Celular Retrato */
+@media (max-width:600px) and (orientation: portrait) {
+    .menu-bar__item{
+        display: none;
+    }
+}
